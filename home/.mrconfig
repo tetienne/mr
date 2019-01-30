@@ -1,12 +1,12 @@
 
 [.homesick/repos/vim]
-checkout = homeshick clone 'git@github.perso.com:tetienne/vim.git' 'vim'
+checkout = homeshick clone 'git@github.com:tetienne/vim.git' 'vim'
 
 [.homesick/repos/zsh]
-checkout = homeshick clone 'git@github.perso.com:tetienne/zsh.git' 'zsh'
+checkout = homeshick clone 'git@github.com:tetienne/zsh.git' 'zsh'
 
 [.homesick/repos/tmux]
-checkout = homeshick clone 'git@github.perso.com:tetienne/tmux.git' 'tmux'
+checkout = homeshick clone 'git@github.com:tetienne/tmux.git' 'tmux'
 
 [.homesick/repos/mr]
-checkout = git clone 'git@github.perso.com:tetienne/mr.git' 'mr'
+checkout = git clone 'git@github.com:tetienne/mr.git' 'mr'
