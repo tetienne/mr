@@ -1,6 +1,7 @@
 [.homesick/repos/homeshick]
 order = 0
 checkout = git clone 'git://github.com/andsens/homeshick.git' 'homeshick'
+skip = [ "$1" = push ] || [ "$1" = commit ]
 
 [.homesick/repos/vim]
 checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:tetienne/vim.git'
