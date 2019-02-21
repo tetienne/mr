@@ -14,6 +14,9 @@ checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:tetie
 [.homesick/repos/git]
 checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:tetienne/git.git'
 
+[.homesick/repos/beets]
+checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:tetienne/beets.git'
+
 [.homesick/repos/mr]
 checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:tetienne/mr.git'
 
